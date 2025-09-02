@@ -1,1 +1,1 @@
-vari able = "Hallo"
+variable = "Hallo"
