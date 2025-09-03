@@ -1,0 +1,3 @@
+print(""""Hallo " """)
+
+input("Enter...")

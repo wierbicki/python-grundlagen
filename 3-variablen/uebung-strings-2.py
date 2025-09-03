@@ -1,4 +1,4 @@
-print(""""It's not a bug, it's a feature"""")
+print('"Talk is cheap."')
 print()
 input("Enter drücken...")
 
