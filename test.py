@@ -1,3 +1,0 @@
-print(""""Hallo " """)
-
-input("Enter...")
