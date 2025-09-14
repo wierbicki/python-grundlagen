@@ -1,0 +1,1 @@
+print("Hallo"   # Klammer fehlt
